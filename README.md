@@ -11,7 +11,7 @@
 Скачать готовый файл и положить в корень целевого репозитория:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<OWNER>/<REPO>/main/AGENTS.md -o AGENTS.md
+curl -fsSL https://raw.githubusercontent.com/th3-cl4ss1c/GitPolicy/main/AGENTS.md -o AGENTS.md
 ```
 
 ## Что обычно правят под проект
